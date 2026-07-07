@@ -14,5 +14,21 @@
     "icon": "https://nyaa.si/static/favicon.png",
     "update": "https://raw.githubusercontent.com/Kulungey/Nyaa.si-for-Hayase/main/manifest.json",
     "code": "https://raw.githubusercontent.com/Kulungey/Nyaa.si-for-Hayase/main/nyaa.js"
+  },
+  {
+    "manifestVersion": 2,
+    "name": "Sukebei",
+    "id": "sukebei-custom",
+    "version": "1.0.0",
+    "type": "torrent",
+    "accuracy": "medium",
+    "updatePeers": false,
+    "ratio": 0,
+    "media": "sub",
+    "languages": ["ALL"],
+    "url": "aHR0cHM6Ly9zdWtlYmVpLm55YWEuc2kv",
+    "icon": "https://sukebei.nyaa.si/static/favicon.png",
+    "update": "https://raw.githubusercontent.com/Kulungey/Nyaa.si-for-Hayase/main/manifest.json",
+    "code": "https://raw.githubusercontent.com/Kulungey/Nyaa.si-for-Hayase/main/sukebei.js"
   }
 ]
