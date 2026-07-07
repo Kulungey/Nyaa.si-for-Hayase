@@ -12,7 +12,7 @@
     "languages": ["ALL"],
     "url": "aHR0cHM6Ly9ueWFhLnNp",
     "icon": "https://nyaa.si/static/favicon.png",
-    "update": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/manifest.json",
-    "code": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/nyaa.js"
+    "update": "https://raw.githubusercontent.com/Kulungey/Nyaa.si-for-Hayase/main/manifest.json",
+    "code": "https://raw.githubusercontent.com/Kulungey/Nyaa.si-for-Hayase/main/nyaa.js"
   }
 ]
