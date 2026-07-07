@@ -1,0 +1,18 @@
+[
+  {
+    "manifestVersion": 2,
+    "name": "Nyaa.si",
+    "id": "nyaa-si-custom",
+    "version": "1.0.0",
+    "type": "torrent",
+    "accuracy": "medium",
+    "updatePeers": false,
+    "ratio": 0,
+    "media": "sub",
+    "languages": ["ALL"],
+    "url": "aHR0cHM6Ly9ueWFhLnNp",
+    "icon": "https://nyaa.si/static/favicon.png",
+    "update": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/manifest.json",
+    "code": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/nyaa.js"
+  }
+]
