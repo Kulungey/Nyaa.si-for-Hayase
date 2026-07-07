@@ -16,7 +16,7 @@ A source extension for [Hayase](https://github.com/hayase-app/ui) that pulls ani
 1. Open Hayase and go to **Settings → Extensions → Repositories**.
 2. Paste this repo's manifest URL:
    ```
-   https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/manifest.json
+   https://raw.githubusercontent.com/Kulungey/Nyaa.si-for-Hayase/main/manifest.json
    ```
 3. Click **Import Extensions**.
 4. Find **Nyaa.si** under the Extensions tab and enable it.
@@ -26,8 +26,8 @@ A source extension for [Hayase](https://github.com/hayase-app/ui) that pulls ani
 | File            | Purpose                                                                 |
 |------------------|--------------------------------------------------------------------------|
 | `manifest.json`  | Extension metadata Hayase reads to install/update the extension          |
-| `nyaa.js`        | The bundled extension source code                                        |
-| `src.js`         | Unbundled/readable source (edit this, then rebuild `nyaa.js` from it)    |
+| `nyaa.js`        | The bundled extension code — this is what Hayase actually loads          |
+| `src.js`         | *(optional)* Unbundled/readable source. Not required for the extension to work — it's only here for easier editing. Edit this, then rebuild `nyaa.js` from it. |
 
 ## Development
 
